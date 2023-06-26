@@ -1,0 +1,3 @@
+import{_ as e,o as a,c as n,a as o}from"./app-304f5532.js";const i={},s=o(`<h3 id="go-go-go" tabindex="-1"><a class="header-anchor" href="#go-go-go" aria-hidden="true">#</a> go go go</h3><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>go get github.com/gly-hub/go-dandelion/go-dandelion-cli@latest
+go <span class="token function">install</span> github.com/gly-hub/go-dandelion/go-dandelion-cli@latest
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div>`,2),d=[s];function t(l,c){return a(),n("div",null,d)}const g=e(i,[["render",t],["__file","index.html.vue"]]);export{g as default};

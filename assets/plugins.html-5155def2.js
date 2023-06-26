@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as s,b as e,d as c}from"./app-304f5532.js";const n={},o=e("h1",{id:"插件",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#插件","aria-hidden":"true"},"#"),c(" 插件")],-1),r=[o];function _(d,i){return a(),s("div",null,r)}const h=t(n,[["render",_],["__file","plugins.html.vue"]]);export{h as default};

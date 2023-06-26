@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6b1b1ab2","path":"/zh/guide/upgrade/plugins.html","title":"插件","lang":"chinese","frontmatter":{"title":"插件"},"headers":[],"git":{"updatedTime":1687427851000,"contributors":[{"name":"fangao","email":"fangao@staruniongame.com","commits":1}]},"filePathRelative":"zh/guide/upgrade/plugins.md"}');export{e as data};

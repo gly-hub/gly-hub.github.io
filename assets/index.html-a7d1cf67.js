@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-47357bdb","path":"/zh/guide/","title":"","lang":"chinese","frontmatter":{},"headers":[],"git":{"updatedTime":1687427851000,"contributors":[{"name":"fangao","email":"fangao@staruniongame.com","commits":1}]},"filePathRelative":"zh/guide/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-68a6fd38","path":"/guide/upgrade/plugins.html","title":"plugins","lang":"english","frontmatter":{"title":"plugins"},"headers":[],"git":{"updatedTime":1687687849000,"contributors":[{"name":"fangao","email":"fangao@staruniongame.com","commits":1}]},"filePathRelative":"guide/upgrade/plugins.md"}');export{a as data};
